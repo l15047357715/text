@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11220733",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11220734",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11220735",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11220736",
+      "name": "preview",
+      "font_class": "preview",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11220737",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11220738",
+      "name": "cancle",
+      "font_class": "cancle",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11220739",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
